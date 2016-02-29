@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p1selectedworkso01ciceuoft_0091.png"; bbox 0 0 1924 3224; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 365 874 1514 948">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 365 874 1514 948">
+     <span class='ocr_line' id='line_1_1' title="bbox 365 874 1514 948; baseline -0.015 -1"><span class='ocrx_word' id='word_1_1' title='bbox 365 874 1514 948; x_wconf 18' lang='lat' dir='ltr'>RHETORICORURM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 884 1080 995 1130">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 884 1080 995 1130">
+     <span class='ocr_line' id='line_1_2' title="bbox 884 1080 995 1130; baseline -0.018 0"><span class='ocrx_word' id='word_1_2' title='bbox 884 1080 995 1130; x_wconf 90' lang='lat' dir='ltr'><strong>AD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 161 1252 1725 1346">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 161 1252 1725 1346">
+     <span class='ocr_line' id='line_1_3' title="bbox 161 1252 1725 1346; baseline -0.016 0"><span class='ocrx_word' id='word_1_3' title='bbox 161 1252 1725 1346; x_wconf 81' lang='lat' dir='ltr'><strong>HERENNIUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 475 1499 1409 1558">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 475 1499 1409 1558">
+     <span class='ocr_line' id='line_1_4' title="bbox 475 1499 1409 1558; baseline -0.017 0"><span class='ocrx_word' id='word_1_4' title='bbox 475 1509 786 1558; x_wconf 82' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_5' title='bbox 846 1499 1409 1551; x_wconf 87' lang='lat' dir='ltr'>SECUNDUS.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
